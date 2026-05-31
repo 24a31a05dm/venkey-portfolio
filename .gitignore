@@ -1,0 +1,36 @@
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# next
+.next
+out
+
+# production
+build
+tsconfig.tsbuildinfo
+
+# local env
+.env
+.env.local
+.env*.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# local tooling and generated verification screenshots
+.tools
+artifacts
+scripts/render-certificate-previews.cjs
+scripts/verify-render.cjs
+
+# private source documents
+public/documents/evaluation-status.pdf
+
+# system
+.DS_Store
+Thumbs.db

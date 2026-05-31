@@ -1,0 +1,24 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" fill="#060812"/>
+  <rect x="68" y="70" width="1064" height="610" rx="28" fill="#0D1222" stroke="white" stroke-opacity="0.12"/>
+  <circle cx="214" cy="160" r="12" fill="#55F0FF"/>
+  <circle cx="258" cy="160" r="12" fill="#8CFFD2"/>
+  <circle cx="302" cy="160" r="12" fill="#FF4FD8"/>
+  <rect x="142" y="225" width="252" height="370" rx="18" fill="#111A2F" stroke="#55F0FF" stroke-opacity="0.2"/>
+  <rect x="444" y="225" width="310" height="162" rx="18" fill="#0A1728" stroke="#8CFFD2" stroke-opacity="0.22"/>
+  <rect x="790" y="225" width="268" height="370" rx="18" fill="#111126" stroke="#FF4FD8" stroke-opacity="0.2"/>
+  <rect x="444" y="433" width="310" height="162" rx="18" fill="#121A2D" stroke="#55F0FF" stroke-opacity="0.18"/>
+  <path d="M178 300H358" stroke="#55F0FF" stroke-opacity="0.55" stroke-width="9" stroke-linecap="round"/>
+  <path d="M178 350H314" stroke="#8CFFD2" stroke-opacity="0.4" stroke-width="9" stroke-linecap="round"/>
+  <path d="M178 400H340" stroke="white" stroke-opacity="0.2" stroke-width="9" stroke-linecap="round"/>
+  <path d="M178 450H290" stroke="white" stroke-opacity="0.16" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="518" cy="306" r="44" fill="#55F0FF" fill-opacity="0.16" stroke="#55F0FF" stroke-opacity="0.5"/>
+  <circle cx="628" cy="306" r="44" fill="#8CFFD2" fill-opacity="0.14" stroke="#8CFFD2" stroke-opacity="0.45"/>
+  <circle cx="868" cy="321" r="50" fill="#FF4FD8" fill-opacity="0.14" stroke="#FF4FD8" stroke-opacity="0.35"/>
+  <path d="M840 429H1010" stroke="#55F0FF" stroke-opacity="0.45" stroke-width="10" stroke-linecap="round"/>
+  <path d="M840 480H990" stroke="white" stroke-opacity="0.17" stroke-width="10" stroke-linecap="round"/>
+  <path d="M840 530H1018" stroke="white" stroke-opacity="0.13" stroke-width="10" stroke-linecap="round"/>
+  <path d="M488 502L558 548L640 482L710 535" stroke="#8CFFD2" stroke-opacity="0.65" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="142" y="139" fill="white" fill-opacity="0.88" font-family="Arial, sans-serif" font-size="34" font-weight="700">CampusConnect</text>
+  <text x="142" y="635" fill="#55F0FF" fill-opacity="0.86" font-family="Arial, sans-serif" font-size="24" font-weight="700">student collaboration system</text>
+</svg>

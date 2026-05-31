@@ -1,0 +1,22 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" fill="#050711"/>
+  <rect x="76" y="72" width="1048" height="606" rx="24" fill="#0B1120" stroke="white" stroke-opacity="0.12"/>
+  <rect x="128" y="132" width="944" height="104" rx="16" fill="#081A25" stroke="#55F0FF" stroke-opacity="0.26"/>
+  <text x="164" y="195" fill="#8CFFD2" font-family="Consolas, monospace" font-size="30">SELECT name, cgpa FROM students WHERE focus = 'DBMS';</text>
+  <rect x="128" y="292" width="260" height="278" rx="16" fill="#101A2E" stroke="#55F0FF" stroke-opacity="0.24"/>
+  <rect x="470" y="292" width="260" height="278" rx="16" fill="#111629" stroke="#8CFFD2" stroke-opacity="0.24"/>
+  <rect x="812" y="292" width="260" height="278" rx="16" fill="#161126" stroke="#FF4FD8" stroke-opacity="0.24"/>
+  <path d="M388 431H470" stroke="#55F0FF" stroke-opacity="0.55" stroke-width="6" stroke-dasharray="12 14"/>
+  <path d="M730 431H812" stroke="#FF4FD8" stroke-opacity="0.55" stroke-width="6" stroke-dasharray="12 14"/>
+  <path d="M164 362H344" stroke="white" stroke-opacity="0.23" stroke-width="8" stroke-linecap="round"/>
+  <path d="M164 414H320" stroke="#55F0FF" stroke-opacity="0.55" stroke-width="8" stroke-linecap="round"/>
+  <path d="M164 466H350" stroke="white" stroke-opacity="0.16" stroke-width="8" stroke-linecap="round"/>
+  <path d="M506 362H686" stroke="white" stroke-opacity="0.23" stroke-width="8" stroke-linecap="round"/>
+  <path d="M506 414H650" stroke="#8CFFD2" stroke-opacity="0.55" stroke-width="8" stroke-linecap="round"/>
+  <path d="M506 466H692" stroke="white" stroke-opacity="0.16" stroke-width="8" stroke-linecap="round"/>
+  <path d="M848 362H1028" stroke="white" stroke-opacity="0.23" stroke-width="8" stroke-linecap="round"/>
+  <path d="M848 414H986" stroke="#FF4FD8" stroke-opacity="0.55" stroke-width="8" stroke-linecap="round"/>
+  <path d="M848 466H1034" stroke="white" stroke-opacity="0.16" stroke-width="8" stroke-linecap="round"/>
+  <text x="128" y="626" fill="white" fill-opacity="0.88" font-family="Arial, sans-serif" font-size="34" font-weight="700">QueryFlow DBMS</text>
+  <text x="128" y="658" fill="#55F0FF" fill-opacity="0.86" font-family="Arial, sans-serif" font-size="22">relational query visualizer</text>
+</svg>

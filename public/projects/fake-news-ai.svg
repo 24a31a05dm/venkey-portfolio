@@ -1,0 +1,20 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" fill="#050711"/>
+  <circle cx="915" cy="185" r="250" fill="#FF4FD8" fill-opacity="0.11"/>
+  <circle cx="230" cy="560" r="290" fill="#55F0FF" fill-opacity="0.11"/>
+  <rect x="82" y="78" width="1036" height="594" rx="28" fill="#0D1222" stroke="white" stroke-opacity="0.12"/>
+  <rect x="146" y="144" width="408" height="420" rx="24" fill="#101A2E" stroke="#55F0FF" stroke-opacity="0.24"/>
+  <rect x="626" y="144" width="426" height="420" rx="24" fill="#111126" stroke="#FF4FD8" stroke-opacity="0.2"/>
+  <path d="M210 230H474" stroke="white" stroke-opacity="0.84" stroke-width="24" stroke-linecap="round"/>
+  <path d="M210 292H432" stroke="#55F0FF" stroke-opacity="0.64" stroke-width="20" stroke-linecap="round"/>
+  <path d="M210 350H488" stroke="white" stroke-opacity="0.18" stroke-width="14" stroke-linecap="round"/>
+  <path d="M210 398H452" stroke="white" stroke-opacity="0.14" stroke-width="14" stroke-linecap="round"/>
+  <path d="M210 446H506" stroke="white" stroke-opacity="0.12" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="838" cy="344" r="112" fill="#55F0FF" fill-opacity="0.1" stroke="#55F0FF" stroke-opacity="0.35"/>
+  <path d="M764 344C790 286 886 286 912 344C886 402 790 402 764 344Z" stroke="#8CFFD2" stroke-opacity="0.72" stroke-width="12" stroke-linejoin="round"/>
+  <circle cx="838" cy="344" r="26" fill="#8CFFD2" fill-opacity="0.48"/>
+  <path d="M700 490H976" stroke="#FF4FD8" stroke-opacity="0.55" stroke-width="12" stroke-linecap="round"/>
+  <path d="M744 530H932" stroke="white" stroke-opacity="0.18" stroke-width="10" stroke-linecap="round"/>
+  <text x="146" y="648" fill="white" fill-opacity="0.9" font-family="Arial, sans-serif" font-size="34" font-weight="700">Fake News Detection Using AI</text>
+  <text x="146" y="681" fill="#55F0FF" fill-opacity="0.86" font-family="Arial, sans-serif" font-size="22">design thinking innovation project</text>
+</svg>
