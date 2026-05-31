@@ -2,6 +2,10 @@
 
 Premium animated portfolio website for Kuppili Leela Venkatesh, a Computer Science Engineering student at Pragati Engineering College.
 
+## Live Website
+
+[https://venkey-portfolio-three.vercel.app](https://venkey-portfolio-three.vercel.app)
+
 ## Stack
 
 - Next.js 15
