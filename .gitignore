@@ -34,3 +34,5 @@ public/documents/evaluation-status.pdf
 # system
 .DS_Store
 Thumbs.db
+
+.vercel
